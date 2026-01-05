@@ -1,0 +1,8 @@
+DB_HOST="localhost"
+DB_USERNAME="root"
+DB_PASSWORD=""
+DB_NAME="express-auth"
+
+JWT_SECRET="your_secret_key"
+COOKIE_SECURE="false"     #if https change to true 
+COOKIE_SAMESITE="None"    #if domain is the same change to Lax
