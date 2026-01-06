@@ -86,6 +86,7 @@ npm run dev
 ### 📌 Notes
 
 - Make sure MySQL service is running
+- Import express-auth.sql file in the backend folder into your database
 - Update database credentials in .env
 - This project is suitable as a starter template for auth-based applications
 
